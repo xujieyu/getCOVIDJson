@@ -1,0 +1,12 @@
+<user-mapping>
+        <authorize
+            username="k8s" 
+            password="e10adc3949ba59abbe56e057f20f883e" 
+            encoding="md5">
+                <connection name="ubuntu">
+                        <protocol>rdp</protocol>
+                        <param name="hostname">172.18.167.38</param>
+                        <param name="port">6666</param>
+                </connection>
+         </authorize>
+</user-mapping>
